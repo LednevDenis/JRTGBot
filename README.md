@@ -1,0 +1,2 @@
+# JRTGBot
+JavaRash Telegram bot
